@@ -4,6 +4,8 @@ I'm a **Mechatronics Engineering student at the University of Waterloo** with ex
 I’ve worked at **Formlabs, Lumentum, and Ford** on projects ranging from **3D printer calibration and high-speed LiDAR development to manufacturing automation and process optimization/control**.  
 Passionate about building **reliable, high-performance systems** at the intersection of **hardware and software**, I enjoy tackling problems that combine **low-level programming, real-time systems, system software and GPU programming**.  
 
+[**Resume**](https://github.com/Shabd034/Portfolio/blob/main/ShabdGuptaResume.pdf) [**Transcript**](https://github.com/Shabd034/Portfolio/blob/main/ShabdGuptaTranscript.pdf) [**Portfolio**](https://github.com/Shabd034/Portfolio/blob/main/ShabdGuptaportfolio.pdf)  
+
 ---
 
 ## 🛠️ Skills  
