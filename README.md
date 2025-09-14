@@ -8,9 +8,9 @@ Passionate about building **reliable, high-performance systems** at the intersec
 
 ## 🛠️ Skills  
 
-**Languages**: C/C++, Python, C#, Bash, GLSL, MATLAB, VHDL, Verilog/SystemVerilog
-**Platforms**: Linux (desktop/embedded), Bare Metal (Xilinx/STM32), Windows (.NET/Win32), FPGA (Xilinx)
-**Libraries**: OpenGL, OpenCV, NumPy, gRPC, MQTT, Redis, proto, etc.
+**Languages**: C/C++, Python, C#, Bash, GLSL, MATLAB, VHDL, Verilog/SystemVerilog  
+**Platforms**: Linux (desktop/embedded), Bare Metal (Xilinx/STM32), Windows (.NET/Win32), FPGA (Xilinx)  
+**Libraries**: OpenGL, OpenCV, NumPy, gRPC, MQTT, Redis, proto, etc.  
 **Tools**: Git, Docker, Yocto/Petalinux, AWS, Vitis/Vivado, STMCubeIDE, etc.
 
 
